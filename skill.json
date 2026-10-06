@@ -1,0 +1,8 @@
+{
+  "name": "genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
