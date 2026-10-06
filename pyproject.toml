@@ -1,0 +1,1 @@
+[project]\nname = "genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill"\nversion = "1.0.0"\ndescription = "Formulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
