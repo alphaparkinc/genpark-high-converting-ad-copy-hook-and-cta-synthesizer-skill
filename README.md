@@ -1,0 +1,1 @@
+# genpark-high-converting-ad-copy-hook-and-cta-synthesizer-skill\n\nFormulates psychology-driven advertising hooks, primary body copy, and CTA variants for marketing campaigns.\n\n100% Python Standard Library implementation with zero external dependencies.
